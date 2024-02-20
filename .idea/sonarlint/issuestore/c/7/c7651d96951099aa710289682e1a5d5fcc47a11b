@@ -1,0 +1,17 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ŒİÕÃ8ü‹…’Û1
+b
+java:S1128"ERemove this unused import 'model.modelhibernate.SubscriptionsEntity'.(ªéƒˆ8ö¿äƒÜ1
+`
+java:S1128">Remove this unused import 'services.ClienteServicesHibernate'.(”»òÔùÿÿÿÿ8…ÀäƒÜ1
+e
+java:S1128"CRemove this unused import 'services.SubscriptionServicesHibernate'.(ëÃ¯Ãùÿÿÿÿ8•ÀäƒÜ1
+G
+java:S1128
+"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8•ÀäƒÜ1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8•ÀäƒÜ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8•ÀäƒÜ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8•ÀäƒÜ1
